@@ -1,0 +1,20 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.JFrame;
+import javax.swing.JButton;
+class GameDemo
+{
+	public static void main(string[] args)
+	{
+		JFrame jF=new JFrame("Game");
+		jf.setLayout(new BorderLayout());
+		jf.setSize(500,500);
+		Panel pn=new panel();
+		jf.add(pn,"south");
+		JButton jb=new JButton(" << ");
+		JButton jb1=new JButton(" << ");
+		pn.add(jb);
+		pn.add(jb);
+		jf.setVisibble(true);
+
+}

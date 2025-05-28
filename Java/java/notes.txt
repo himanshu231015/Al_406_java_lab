@@ -1,0 +1,13 @@
+Assignment1 : 
+Assignment2 : create buttons like rect ,oval ,line
+Assignment3 : frame for suffle by placing image 
+how to place image on canvas?
+also how to move that image
+
+
+
+yello package logo -> new -> JFrame from -> frame name -> finish -> right click on frame -> set layout -> select Null layout->
+add text fild in frame -> right click on text -> edit text -> edit var iable and name it 
+
+
+File -> new file -> java with ant -> java applicaion -> next 
